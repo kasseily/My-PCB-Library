@@ -81,7 +81,7 @@ GenerateClassCluster=0
 DocumentUniqueId=OXALBSQR
 
 [Document3]
-DocumentPath=Capacitor.PcbLib
+DocumentPath=Ceramic Capacitor.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
