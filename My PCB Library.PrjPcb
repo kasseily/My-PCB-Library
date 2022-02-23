@@ -284,6 +284,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XEATOVME
 
+[Document15]
+DocumentPath=Diode.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=OQRECUMN
+
 [SearchPath1]
 Path=..\..\AD22\Library\CERN_ALTIUM_LIB_dec_2021\*.*
 IncludeSubFolders=1
