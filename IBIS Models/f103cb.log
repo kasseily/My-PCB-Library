@@ -1,0 +1,46 @@
+WARNING (line   44) - IBIS files should not contain tab characters.
+NOTE (line  118) - Pulldown Maximum data is non-monotonic
+NOTE (line  127) - Pulldown Minimum data is non-monotonic
+NOTE (line  128) - Pulldown Typical data is non-monotonic
+NOTE (line  195) - Pullup Typical data is non-monotonic
+NOTE (line  201) - Pullup Maximum data is non-monotonic
+NOTE (line  202) - Pullup Minimum data is non-monotonic
+NOTE (line  371) - POWER Clamp Maximum data is non-monotonic
+NOTE (line  372) - POWER Clamp Typical data is non-monotonic
+WARNING - Model 'IO8FT': Vmeas timing test load parameter should be specified
+NOTE (line  403) - Pulldown Typical data is non-monotonic
+NOTE (line  403) - Pulldown Maximum data is non-monotonic
+NOTE (line  411) - Pulldown Minimum data is non-monotonic
+NOTE (line  487) - Pullup Typical data is non-monotonic
+NOTE (line  487) - Pullup Minimum data is non-monotonic
+NOTE (line  491) - Pullup Maximum data is non-monotonic
+WARNING - Model 'IO8TC': Vmeas timing test load parameter should be specified
+NOTE (line  692) - Pulldown Maximum data is non-monotonic
+NOTE (line  701) - Pulldown Minimum data is non-monotonic
+NOTE (line  702) - Pulldown Typical data is non-monotonic
+NOTE (line  769) - Pullup Typical data is non-monotonic
+NOTE (line  775) - Pullup Maximum data is non-monotonic
+NOTE (line  776) - Pullup Minimum data is non-monotonic
+NOTE (line  945) - POWER Clamp Maximum data is non-monotonic
+NOTE (line  946) - POWER Clamp Typical data is non-monotonic
+WARNING -
+    Model 'IO8I2CINFT': Vmeas timing test load parameter should be specified
+WARNING (line  965) -
+    Model USBFS: C_comp min value is not the smallest value listed
+WARNING (line  965) -
+    Model USBFS: C_comp max value is not the largest value listed
+NOTE (line  986) - Pulldown Maximum data is non-monotonic
+NOTE (line  987) - Pulldown Typical data is non-monotonic
+NOTE (line  989) - Pulldown Minimum data is non-monotonic
+NOTE (line 1196) - GND Clamp Minimum data is non-monotonic
+NOTE (line 1232) - POWER Clamp Maximum data is non-monotonic
+NOTE (line 1233) - POWER Clamp Typical data is non-monotonic
+NOTE (line 1233) - POWER Clamp Minimum data is non-monotonic
+WARNING - Model 'USBFS': Vmeas timing test load parameter should be specified
+NOTE - Combined Pulldown for Model: USBFS Minimum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pullup for Model: IO8I2CINFT Typical data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pullup for Model: IO8I2CINFT Minimum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pullup for Model: IO8I2CINFT Maximum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pullup for Model: IO8FT Typical data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pullup for Model: IO8FT Minimum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pullup for Model: IO8FT Maximum data is non-monotonic based on piece-wise linear interpolation
