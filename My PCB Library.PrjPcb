@@ -81,40 +81,6 @@ GenerateClassCluster=0
 DocumentUniqueId=WGHDNSDM
 
 [Document3]
-DocumentPath=Electrolytic Capacitor.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=IXDUNNNI
-
-[Document4]
-DocumentPath=Tantalum Capacitor.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=YBGFSPRK
-
-[Document5]
 DocumentPath=Resistors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -131,7 +97,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GFXNAKGP
 
-[Document6]
+[Document4]
 DocumentPath=Schematic Symbols.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -148,7 +114,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HTNLQTRM
 
-[Document7]
+[Document5]
 DocumentPath=Transistor.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -165,8 +131,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OKDOCYLV
 
-[Document8]
-DocumentPath=Integrated Controller.PcbLib
+[Document6]
+DocumentPath=ICs and SemiConductors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -182,7 +148,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OKHULWIF
 
-[Document9]
+[Document7]
 DocumentPath=Connector.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -199,7 +165,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JHIZABZQ
 
-[Document10]
+[Document8]
 DocumentPath=Crystal and Oscillators.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -216,7 +182,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HAKRZFDF
 
-[Document11]
+[Document9]
 DocumentPath=Switches.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -233,7 +199,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EMZQVQUL
 
-[Document12]
+[Document10]
 DocumentPath=Ferrite Bead.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -250,7 +216,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HZQEGGEC
 
-[Document13]
+[Document11]
 DocumentPath=LED and Display.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -267,7 +233,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HHOOHGLF
 
-[Document14]
+[Document12]
 DocumentPath=Diode.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -284,7 +250,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TKBLKKVJ
 
-[Document15]
+[Document13]
 DocumentPath=Resistors SMD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -301,24 +267,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FVPTNUUH
 
-[Document16]
-DocumentPath=Resistors THD.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=XEATOVME
-
-[Document17]
+[Document14]
 DocumentPath=Capacitors SMD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -334,6 +283,57 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XNETQMIR
+
+[Document15]
+DocumentPath=Capacitors.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BPUSVZIP
+
+[Document16]
+DocumentPath=Analog and Interface.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XKEVZQNZ
+
+[Document17]
+DocumentPath=Integrated Circuits.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=OSOXDHVW
 
 [SearchPath1]
 Path=..\..\AD22\Library\CERN_ALTIUM_LIB_dec_2021\*.*
