@@ -234,7 +234,7 @@ GenerateClassCluster=0
 DocumentUniqueId=HHOOHGLF
 
 [Document12]
-DocumentPath=Diode.PcbLib
+DocumentPath=Diodes.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -351,6 +351,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IGVBPKED
+
+[Document19]
+DocumentPath=Diodes.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=WBPTFZPC
 
 [SearchPath1]
 Path=..\..\AD22\Library\CERN_ALTIUM_LIB_dec_2021\*.*
