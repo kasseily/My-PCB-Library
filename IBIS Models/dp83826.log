@@ -1,0 +1,29 @@
+WARNING (line   64) - IBIS files should not contain tab characters.
+NOTE (line  148) - Pulldown Typical data is non-monotonic
+NOTE (line  148) - Pulldown Minimum data is non-monotonic
+NOTE (line  227) - Pulldown Maximum data is non-monotonic
+NOTE (line  314) - GND Clamp Maximum data is non-monotonic
+NOTE (line  326) - GND Clamp Typical data is non-monotonic
+NOTE (line  327) - GND Clamp Minimum data is non-monotonic
+NOTE (line  358) - Pullup Typical data is non-monotonic
+NOTE (line  358) - Pullup Maximum data is non-monotonic
+NOTE (line  361) - Pullup Minimum data is non-monotonic
+NOTE (line 1053) - Pulldown Maximum data is non-monotonic
+NOTE (line 1057) - Pulldown Typical data is non-monotonic
+NOTE (line 1057) - Pulldown Minimum data is non-monotonic
+NOTE (line 1220) - GND Clamp Maximum data is non-monotonic
+NOTE (line 1230) - GND Clamp Typical data is non-monotonic
+NOTE (line 1230) - GND Clamp Minimum data is non-monotonic
+NOTE (line 1265) - Pullup Maximum data is non-monotonic
+NOTE (line 1334) - Pullup Minimum data is non-monotonic
+NOTE (line 1338) - Pullup Typical data is non-monotonic
+NOTE (line 1420) - POWER Clamp Maximum data is non-monotonic
+NOTE - Combined Pulldown for Model: gpio_mode_3p3 Typical data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pullup for Model: gpio_mode_3p3 Typical data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pulldown for Model: gpio_mode_3p3 Minimum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pullup for Model: gpio_mode_3p3 Minimum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pulldown for Model: gpio_mode_3p3 Maximum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pullup for Model: gpio_mode_3p3 Maximum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pulldown for Model: gpio_mode_1p8 Typical data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pulldown for Model: gpio_mode_1p8 Minimum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pulldown for Model: gpio_mode_1p8 Maximum data is non-monotonic based on piece-wise linear interpolation
