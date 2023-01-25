@@ -455,23 +455,6 @@ GenerateClassCluster=0
 DocumentUniqueId=OKDOCYLV
 
 [Document25]
-DocumentPath=Voltage Regulator.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=OXALBSQR
-
-[Document26]
 DocumentPath=Transistors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -487,6 +470,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZTDNFZHF
+
+[Document26]
+DocumentPath=Regulators.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=HFZMLYRO
 
 [SearchPath1]
 Path=..\..\AD22\Library\CERN_ALTIUM_LIB_dec_2021\*.*
@@ -1506,4 +1506,5 @@ PageOptions=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintSc
 [Parameter Manager Custom Column Order]
 analog and interface.schlib="Antenna Type",Case/Package,Category,ComponentLinkDescription,ComponentLinkURL,ComponentLink1Description,ComponentLink1URL,ComponentLink2Description,ComponentLink2URL,"Data Rate","Frequency (Center/Band)","Frequency Group","Frequency Range",Gain,Impedance,Interface,Manufacturer,"Manufacturer Part Number","Min Operating Temperature","Max Operating Temperature","Max Supply Voltage","Min Supply Voltage","Operating Supply Current","Operating Supply Voltage","Power - Max","Return Loss","RF Family / Standard","Address Bus Width",Density,"Memory Type","Page Size","RoHS Compliant","Supplier 1","Supplier 2","Supplier Part Number 1","Supplier Part Number 2",Comment,"Component Kind",Description,Footprint,"Ibis Model","Library Reference",PCB3D,"Pin Info","Signal Integrity",Simulation
 capacitors.schlib=Manufacturer,"Manufacturer Part Number",Category,Case/Package,Capacitance,Tolerance,Dielectric,"Voltage Rating (DC)","Min Operating Temperature","Max Operating Temperature","RoHS Compliant","Supplier 1","Supplier 2","Supplier Part Number 1","Supplier Part Number 2",ComponentLink1Description,ComponentLink1URL,Comment,"Component Kind",Description,Footprint,"Ibis Model","Library Reference",PCB3D,"Pin Info","Signal Integrity",Simulation
+regulators.schlib=Comment,"Component Kind",Description,Footprint,"Ibis Model","Library Reference",PCB3D,"Pin Info","Signal Integrity",Simulation,Category,"Dropout Voltage",Manufacturer,"Manufacturer Part Number","Max Operating Temperature","Max Supply Voltage","Min Current Limit","Min Input Voltage","Min Operating Temperature","Number of Regulators","Output Current","Output Type","Output Voltage",Polarity,"Quiescent Current","RoHS Compliant",ComponentLink1Description,ComponentLink1URL,"Supplier 1","Supplier 2","Supplier Part Number 1","Supplier Part Number 2"
 
