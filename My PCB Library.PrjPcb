@@ -115,6 +115,23 @@ GenerateClassCluster=0
 DocumentUniqueId=IGVBPKED
 
 [Document5]
+DocumentPath=Crystals and Oscillators.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=JOUHJHPU
+
+[Document6]
 DocumentPath=Diodes.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -131,7 +148,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WBPTFZPC
 
-[Document6]
+[Document7]
 DocumentPath=Filters.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -148,7 +165,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JBWRATZK
 
-[Document7]
+[Document8]
 DocumentPath=Fuses.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -165,7 +182,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MLRKBWJW
 
-[Document8]
+[Document9]
 DocumentPath=Inductors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -182,7 +199,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BRWQPZKZ
 
-[Document9]
+[Document10]
 DocumentPath=LEDs and Displays.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -199,7 +216,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XZMEBKTY
 
-[Document10]
+[Document11]
 DocumentPath=Pads.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -216,7 +233,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VDVIBIGO
 
-[Document11]
+[Document12]
 DocumentPath=Schematic Symbols.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -233,7 +250,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HTNLQTRM
 
-[Document12]
+[Document13]
 DocumentPath=Resistors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -250,7 +267,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GFXNAKGP
 
-[Document13]
+[Document14]
 DocumentPath=Connectors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -267,7 +284,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JHIZABZQ
 
-[Document14]
+[Document15]
 DocumentPath=Crystal and Oscillators.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -284,7 +301,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HAKRZFDF
 
-[Document15]
+[Document16]
 DocumentPath=Diodes.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -301,7 +318,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TKBLKKVJ
 
-[Document16]
+[Document17]
 DocumentPath=JLPCB Rules.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -318,7 +335,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WGHDNSDM
 
-[Document17]
+[Document18]
 DocumentPath=Fuses.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -335,7 +352,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DWMFCZCP
 
-[Document18]
+[Document19]
 DocumentPath=ICs and SemiConductors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -352,7 +369,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OKHULWIF
 
-[Document19]
+[Document20]
 DocumentPath=Inductors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -369,8 +386,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OOHDCRMF
 
-[Document20]
-DocumentPath=LED and Display.PcbLib
+[Document21]
+DocumentPath=LEDs and Displays.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -386,7 +403,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HHOOHGLF
 
-[Document21]
+[Document22]
 DocumentPath=Pads.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -403,7 +420,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NWMVFCKA
 
-[Document22]
+[Document23]
 DocumentPath=Resistors SMD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -420,7 +437,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FVPTNUUH
 
-[Document23]
+[Document24]
 DocumentPath=Switches.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -437,7 +454,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EMZQVQUL
 
-[Document24]
+[Document25]
 DocumentPath=Transistors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -454,7 +471,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OKDOCYLV
 
-[Document25]
+[Document26]
 DocumentPath=Transistors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -471,7 +488,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZTDNFZHF
 
-[Document26]
+[Document27]
 DocumentPath=Regulators.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -488,7 +505,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HFZMLYRO
 
-[Document27]
+[Document28]
 DocumentPath=Switches.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1521,7 +1538,8 @@ ComparisonOptions5=Kind=Structure Class|MinPercent=75|MinMatch=3|ShowMatch=0|Use
 PageOptions=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [Parameter Manager Custom Column Order]
-analog and interface.schlib="Antenna Type",Case/Package,Category,ComponentLinkDescription,ComponentLinkURL,ComponentLink1Description,ComponentLink1URL,ComponentLink2Description,ComponentLink2URL,"Data Rate","Frequency (Center/Band)","Frequency Group","Frequency Range",Gain,Impedance,Interface,Manufacturer,"Manufacturer Part Number","Min Operating Temperature","Max Operating Temperature","Max Supply Voltage","Min Supply Voltage","Operating Supply Current","Operating Supply Voltage","Power - Max","Return Loss","RF Family / Standard","Address Bus Width",Density,"Memory Type","Page Size","RoHS Compliant","Supplier 1","Supplier 2","Supplier Part Number 1","Supplier Part Number 2",Comment,"Component Kind",Description,Footprint,"Ibis Model","Library Reference",PCB3D,"Pin Info","Signal Integrity",Simulation
 capacitors.schlib=Manufacturer,"Manufacturer Part Number",Category,Case/Package,Capacitance,Tolerance,Dielectric,"Voltage Rating (DC)","Min Operating Temperature","Max Operating Temperature","RoHS Compliant","Supplier 1","Supplier 2","Supplier Part Number 1","Supplier Part Number 2",ComponentLink1Description,ComponentLink1URL,Comment,"Component Kind",Description,Footprint,"Ibis Model","Library Reference",PCB3D,"Pin Info","Signal Integrity",Simulation
 regulators.schlib=Comment,"Component Kind",Description,Footprint,"Ibis Model","Library Reference",PCB3D,"Pin Info","Signal Integrity",Simulation,Category,"Dropout Voltage",Manufacturer,"Manufacturer Part Number","Max Operating Temperature","Max Supply Voltage","Min Current Limit","Min Input Voltage","Min Operating Temperature","Number of Regulators","Output Current","Output Type","Output Voltage",Polarity,"Quiescent Current","RoHS Compliant",ComponentLink1Description,ComponentLink1URL,"Supplier 1","Supplier 2","Supplier Part Number 1","Supplier Part Number 2"
+crystals and oscillators.schlib=Comment,"Component Kind",Description,Footprint,"Ibis Model","Library Reference",PCB3D,"Pin Info","Signal Integrity",Simulation,Manufacturer,"Manufacturer Part Number",Category,Case/Package,Frequency,"Frequency Stability","Frequency Tolerance","Load Capacitance","ESR (Equivalent Series Resistance)","Min Operating Temperature","Max Operating Temperature","RoHS Compliant",ComponentLink1Description,ComponentLink1URL,"Supplier 1","Supplier 2","Supplier Part Number 1","Supplier Part Number 2"
+analog and interface.schlib="Antenna Type",Case/Package,Category,ComponentLinkDescription,ComponentLinkURL,ComponentLink1Description,ComponentLink1URL,ComponentLink2Description,ComponentLink2URL,"Data Rate","Frequency (Center/Band)","Frequency Group","Frequency Range",Gain,Impedance,Interface,Manufacturer,"Manufacturer Part Number","Min Operating Temperature","Max Operating Temperature","Max Supply Voltage","Min Supply Voltage","Operating Supply Current","Operating Supply Voltage","Power - Max","Return Loss","RF Family / Standard","Address Bus Width",Density,"Memory Type","Page Size","RoHS Compliant","Supplier 1","Supplier 2","Supplier Part Number 1","Supplier Part Number 2",Comment,"Component Kind",Description,Footprint,"Ibis Model","Library Reference",PCB3D,"Pin Info","Signal Integrity",Simulation
 
