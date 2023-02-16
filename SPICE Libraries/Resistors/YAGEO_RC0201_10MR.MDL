@@ -1,0 +1,19 @@
+*
+* This spice model was created using the Altium Spice Model Wizard
+* Created: 23:16 on 16 February, 2023
+*
+* Description: Max resistance is 10Mohm
+* Component Name: YAGEO_RC0201_10MR
+*
+.MODEL YAGEO_RC0201_10MR R
++(
++         TC1 = 200
++        DEFW = 0.3e-6
++        TNOM = 25
++)
+*
+* Spice model YAGEO_RC0201_10MR has been assigned the following parameters:
+*
+*        TC1: First order temperature coefficient...(Unit: Ohm/°C)
+*       DEFW: Default width.........................(Unit: meters)
+*       TNOM: Parameter measurement temperature.....(Unit: °C)
