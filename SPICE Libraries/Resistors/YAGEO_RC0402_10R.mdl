@@ -1,0 +1,18 @@
+*
+* This spice model was created using the Altium Spice Model Wizard
+* Created: 06:36 on 17 February, 2023
+*
+* Component Name: YAGEO_RC0402_10R
+*
+.MODEL YAGEO_RC0402_10R R
++(
++         TC1 = 200
++        DEFW = 0.50e-6
++        TNOM = 25
++)
+*
+* Spice model YAGEO_RC0402_10R has been assigned the following parameters:
+*
+*        TC1: First order temperature coefficient...(Unit: Ohm/°C)
+*       DEFW: Default width.........................(Unit: meters)
+*       TNOM: Parameter measurement temperature.....(Unit: °C)
