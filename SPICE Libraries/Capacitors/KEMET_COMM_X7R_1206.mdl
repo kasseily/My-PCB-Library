@@ -1,0 +1,14 @@
+*
+* This spice model was created using the Altium Spice Model Wizard
+* Created: 16:41 on 17 February, 2023
+*
+* Component Name: KEMET_COMM_X7R_1206
+*
+.MODEL KEMET_COMM_X7R_1206 C
++(
++        DEFW = 1.6e-6
++)
+*
+* Spice model KEMET_COMM_X7R_1206 has been assigned the following parameters:
+*
+*       DEFW: Default device width.............(Unit: meters)
