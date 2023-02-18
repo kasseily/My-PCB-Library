@@ -14,6 +14,6 @@
 *
 * Spice model YAGEO_RC0201_10R has been assigned the following parameters:
 *
-*        TC1: First order temperature coefficient...(Unit: Ohm/°C)
+*        TC1: First order temperature coefficient...(Unit: Ohm/Â°C)
 *       DEFW: Default width.........................(Unit: meters)
-*       TNOM: Parameter measurement temperature.....(Unit: °C)
+*       TNOM: Parameter measurement temperature.....(Unit: Â°C)
