@@ -1,0 +1,14 @@
+*
+* This spice model was created using the Altium Spice Model Wizard
+* Created: 14:48 on 20 February, 2023
+*
+* Component Name: KEMET_EDK226M025A9GAA
+*
+.MODEL KEMET_EDK226M025A9GAA C
++(
++        DEFW = 6.3e-6
++)
+*
+* Spice model KEMET_EDK226M025A9GAA has been assigned the following parameters:
+*
+*       DEFW: Default device width.............(Unit: meters)
