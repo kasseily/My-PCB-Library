@@ -149,6 +149,23 @@ GenerateClassCluster=0
 DocumentUniqueId=WBPTFZPC
 
 [Document7]
+DocumentPath=Fasterners and Fixings.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=CZLXILMM
+
+[Document8]
 DocumentPath=Filters.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -165,7 +182,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JBWRATZK
 
-[Document8]
+[Document9]
 DocumentPath=Fuses.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -182,7 +199,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MLRKBWJW
 
-[Document9]
+[Document10]
 DocumentPath=Inductors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -199,7 +216,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BRWQPZKZ
 
-[Document10]
+[Document11]
 DocumentPath=LEDs and Displays.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -216,7 +233,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XZMEBKTY
 
-[Document11]
+[Document12]
 DocumentPath=Logic.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -233,7 +250,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XXYNBMCF
 
-[Document12]
+[Document13]
 DocumentPath=Pads.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -250,7 +267,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VDVIBIGO
 
-[Document13]
+[Document14]
 DocumentPath=Schematic Symbols.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -267,7 +284,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HTNLQTRM
 
-[Document14]
+[Document15]
 DocumentPath=Resistors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -284,7 +301,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GFXNAKGP
 
-[Document15]
+[Document16]
 DocumentPath=Connectors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -301,7 +318,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JHIZABZQ
 
-[Document16]
+[Document17]
 DocumentPath=Crystal and Oscillators.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -318,7 +335,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HAKRZFDF
 
-[Document17]
+[Document18]
 DocumentPath=Diodes.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -335,7 +352,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TKBLKKVJ
 
-[Document18]
+[Document19]
 DocumentPath=JLPCB Rules.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -352,7 +369,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WGHDNSDM
 
-[Document19]
+[Document20]
+DocumentPath=Fastnerers and Fixings.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=AEMNUNOZ
+
+[Document21]
 DocumentPath=Fuses.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -369,7 +403,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DWMFCZCP
 
-[Document20]
+[Document22]
 DocumentPath=ICs and SemiConductors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -386,7 +420,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OKHULWIF
 
-[Document21]
+[Document23]
 DocumentPath=Inductors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -403,7 +437,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OOHDCRMF
 
-[Document22]
+[Document24]
 DocumentPath=LEDs and Displays.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -420,7 +454,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HHOOHGLF
 
-[Document23]
+[Document25]
 DocumentPath=Pads.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -437,7 +471,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NWMVFCKA
 
-[Document24]
+[Document26]
 DocumentPath=Relays.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -454,7 +488,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XXXCHNFL
 
-[Document25]
+[Document27]
 DocumentPath=Resistors SMD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -471,7 +505,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FVPTNUUH
 
-[Document26]
+[Document28]
 DocumentPath=Switches.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -488,7 +522,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EMZQVQUL
 
-[Document27]
+[Document29]
 DocumentPath=Transistors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -505,7 +539,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OKDOCYLV
 
-[Document28]
+[Document30]
 DocumentPath=Transistors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -522,7 +556,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZTDNFZHF
 
-[Document29]
+[Document31]
 DocumentPath=Regulators.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -539,24 +573,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HFZMLYRO
 
-[Document30]
-DocumentPath=Switches.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=OQZLDBMC
-
-[Document31]
+[Document32]
 DocumentPath=Relays.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -572,6 +589,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YIGWPUIZ
+
+[Document33]
+DocumentPath=Switches.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=OQZLDBMC
 
 [SearchPath1]
 Path=..\..\AD22\Library\CERN_ALTIUM_LIB_dec_2021\*.*
