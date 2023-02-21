@@ -1,0 +1,19 @@
+*
+* This spice model was created using the Altium Spice Model Wizard
+* Created: 14:30 on 21 February, 2023
+*
+* Component Name: OSRAM_LGR971KN1
+*
+.MODEL OSRAM_LGR971KN1 D
++(
++     IS = 4.3261E-0025
++      N = 1.3837
++     RS = 1.3951
++)
+
+* Spice model OSRAM_LGR971KN1 has been assigned the following parameters:
+
+* Forward-Bias Diode Current Parameters
+*     IS: Saturation Current..................(Unit: A)
+*      N: Emission Coefficient
+*     RS: Ohmic Resistance....................(Unit: Ohm)

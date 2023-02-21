@@ -1,0 +1,19 @@
+*
+* This spice model was created using the Altium Spice Model Wizard
+* Created: 12:04 on 21 February, 2023
+*
+* Component Name: LITEON_LTST-C191KGKT
+*
+.MODEL LITEON_LTST-C191KGKT D
++(
++     IS = 1.1205E-0168
++      N = 0.1976
++     RS = 2.3563
++)
+
+* Spice model LITEON_LTST-C191KGKT has been assigned the following parameters:
+
+* Forward-Bias Diode Current Parameters
+*     IS: Saturation Current..................(Unit: A)
+*      N: Emission Coefficient
+*     RS: Ohmic Resistance....................(Unit: Ohm)

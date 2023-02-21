@@ -1,0 +1,41 @@
+*
+* This spice model was created using the Altium Spice Model Wizard
+* Created: 12:16 on 21 February, 2023
+*
+* And modified by Karl Asseily to combine the dual led package into 1 simulation model
+*
+*
+* Component Name: DIALIGHT_5988510207F
+*
+* Pin 1 : Green Anode
+* Pin 2 : Green Cathode
+* Pin 3 : Red Anode
+* Pin 4 : Red Cathode
+
+.SUBCKT DIALIGHT_5988510207F 1 2 3 4
+D1 1 2 DIALIGHT_5988510207F_GRN
+D2 3 4 DIALIGHT_5988510207F_RED
+
+.MODEL DIALIGHT_5988510207F_RED D
++(
++     IS = 1.0401E-0011
++      N = 3.9455
++     RS = 1.5549
++)
+
+.MODEL DIALIGHT_5988510207F_GRN D
++(
++     IS = 1.5062E-0016
++      N = 3.2742
++     RS = 18.5791
++)
+
+.ENDS  DIALIGHT_5988510207F
+*
+* Spice model DIALIGHT_5988510207F has been assigned the following parameters:
+
+* Forward-Bias Diode Current Parameters
+*     IS: Saturation Current..................(Unit: A)
+*      N: Emission Coefficient
+*     RS: Ohmic Resistance....................(Unit: Ohm)
+

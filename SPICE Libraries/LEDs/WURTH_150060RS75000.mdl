@@ -1,0 +1,19 @@
+*
+* This spice model was created using the Altium Spice Model Wizard
+* Created: 14:46 on 21 February, 2023
+*
+* Component Name: WURTH_150060RS75000
+*
+.MODEL WURTH_150060RS75000 D
++(
++     IS = 1.0806E-0018
++      N = 1.9758
++     RS = 2.1224
++)
+
+* Spice model WURTH_150060RS75000 has been assigned the following parameters:
+
+* Forward-Bias Diode Current Parameters
+*     IS: Saturation Current..................(Unit: A)
+*      N: Emission Coefficient
+*     RS: Ohmic Resistance....................(Unit: Ohm)
