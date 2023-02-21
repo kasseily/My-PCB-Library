@@ -607,6 +607,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OQZLDBMC
 
+[Document34]
+DocumentPath=SPICE Libraries\Switches\Switches and Buttons.mdl
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [SearchPath1]
 Path=..\..\AD22\Library\CERN_ALTIUM_LIB_dec_2021\*.*
 IncludeSubFolders=1
