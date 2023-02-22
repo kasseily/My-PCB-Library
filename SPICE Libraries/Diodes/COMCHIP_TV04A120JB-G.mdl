@@ -1,0 +1,29 @@
+*
+* This spice model was created using the Altium Spice Model Wizard
+* Created: 20:21 on 22 February, 2023
+*
+* Component Name: TV04A120JBG
+*
+.MODEL TV04A120JBG D
++(
++    CJO = 2.8798E-0008
++     VJ = 0.6100
++      M = 1.0029
++     BV = 13.3
++    IBV = 1E-3
++     TT = 2.8800E-3
++)
+
+* Spice model TV04A120JBG has been assigned the following parameters:
+
+* Reverse-Bias Junction Capacitance Parameters
+*    CJO: Zero-Bias Junction Capacitance......(Unit: F)
+*     VJ: Junction Potential..................(Unit: V)
+*      M: Grading Coefficient
+
+* Reverse-Recovery Time Of The Diode Parameters
+*     TT: Transit-Time........................(Unit: Sec)
+
+* Reverse-Breakdown Diode Current Parameters
+*     BV: Reverse Breakdown Voltage...........(Unit: V)
+*    IBV: Current at Breakdown Voltage........(Unit: A)

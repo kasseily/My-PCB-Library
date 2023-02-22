@@ -1,0 +1,37 @@
+*
+* This spice model was created using the Altium Spice Model Wizard
+* Created: 21:28 on 22 February, 2023
+*
+* Component Name: BAT54CW115
+*
+.MODEL BAT54CW115 D
++(
++     IS = 1.0000E-0007
++      N = 1.3427
++     RS = 2.8915
++    CJO = 8.0006E-0012
++     VJ = 0.1000
++      M = 0.3164
++     BV = 30
++    IBV = 2E-6
++     TT = 7.2000E-9
++)
+
+* Spice model BAT54CW115 has been assigned the following parameters:
+
+* Forward-Bias Diode Current Parameters
+*     IS: Saturation Current..................(Unit: A)
+*      N: Emission Coefficient
+*     RS: Ohmic Resistance....................(Unit: Ohm)
+
+* Reverse-Bias Junction Capacitance Parameters
+*    CJO: Zero-Bias Junction Capacitance......(Unit: F)
+*     VJ: Junction Potential..................(Unit: V)
+*      M: Grading Coefficient
+
+* Reverse-Recovery Time Of The Diode Parameters
+*     TT: Transit-Time........................(Unit: Sec)
+
+* Reverse-Breakdown Diode Current Parameters
+*     BV: Reverse Breakdown Voltage...........(Unit: V)
+*    IBV: Current at Breakdown Voltage........(Unit: A)

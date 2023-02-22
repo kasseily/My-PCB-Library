@@ -1,0 +1,32 @@
+*---------------------------------------------------------------------------------------
+* STANDARD DIODE
+*---------------------------------------------------------------------------------------
+* IBV=1e-3 should be!!!
+.SUBCKT NGPICE_DIODE A C PARAMS: 
++ area=1  m=1 pj=1  ic=0 temp=27 dtemp=0 
++ AF=1 BV=0 CJO=0 EG=1.11 FC=0.5 IBV=100p IBVL=0 IKF=0 IS=10f 
++ IKR=0 JSW=0 JTUN=0 JTUNSW=0 NTUN=30 XTITUN=3 KEG=1 
++ CJP=0  FCS=0.5 MJSW=0.33 PHP=1 
++ ISR=0 KF=0 N=1 NBV=1 NBVL=1 NR=1 NS=1 RS=0  TBV1=0 TBV2=0 TIKF=0 TRS1=0 TRS2=0 TT=0   
++ VJ=1 XTI=3
++ TNOM=27 TM1=0 TM2=0 TTT1=0 TTT2=0 TLEV=0 TLEVC=0 CTA=0 CTP=0 TCV=0 TVJ=0 TPHP=0
++ BV_MAX=1e99 FV_MAX=1e99 
+
+
+*main_parameters IS RS BV IBV CJO VJ
+
+D1 A C ngpice_diode area={area}  m={m} pj={pj} temp={temp} dtemp={dtemp} ic={ic} ;off
+.MODEL ngpice_diode D 
++ IKR={IKR} JSW={JSW} JTUN={JTUN}  JTUNSW={JTUNSW} NTUN={NTUN} 
++ XTITUN={XTITUN} KEG={KEG} 
++ CJP={CJP}  FCS={FCS} MJSW={MJSW} PHP={PHP}
++ AF={AF} BV={BV} CJO={CJO} EG={EG} FC={FC} IBV={IBV} IBVL={IBVL} IKF={IKF} 
++ IS={IS} ISR={ISR} KF={KF} M={M} N={N} NBV={NBV} NBVL={NBVL} NR={NR} NS={NS} RS={RS} 
++ TBV1={TBV1} TBV2={TBV2} 
++ TIKF={TIKF} TRS1={TRS1} TRS2={TRS2} TT={TT}  
++ VJ={VJ} XTI={XTI})
++ TNOM={TNOM} TM1={TM1} TM2={TM2} TTT1={TTT1} TTT2={TTT2} 
++ TLEV={TLEV} TLEVC={TLEVC} CTA={CTA} CTP={CTP} TCV={TCV} TVJ={TVJ} TPHP={TPHP}
++ BV_MAX={BV_MAX} FV_MAX={FV_MAX}
+
+.ENDS
