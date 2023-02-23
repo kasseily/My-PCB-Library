@@ -1,0 +1,43 @@
+*
+* This spice model was created using the Altium Spice Model Wizard
+* Created: 09:45 on 23 February, 2023
+*
+* Edited by Karl Asseily to create the multi-component subcircuit
+*
+*
+* Component Name: PTVS4V5D1B
+*
+* Pin 1 : Cathode 1
+* Pin 2 : Cathode 2
+* (Internal node A : Common Anode)
+*
+.SUBCKT PTVS4V5D1B K1 K2
+
+D1 K1 A tvs
+D2 A K2 tvs
+
+.MODEL tvs D
++(
++    CJO = 6.2332E-0011
++     VJ = 2.5500
++      M = 0.3985
++     BV = 4.7
++    IBV = 50E-9
++     TT = 1.0800E-8
++)
+
+.ENDS tvs
+
+* Spice model PTVS4V5D1B has been assigned the following parameters:
+
+* Reverse-Bias Junction Capacitance Parameters
+*    CJO: Zero-Bias Junction Capacitance......(Unit: F)
+*     VJ: Junction Potential..................(Unit: V)
+*      M: Grading Coefficient
+
+* Reverse-Recovery Time Of The Diode Parameters
+*     TT: Transit-Time........................(Unit: Sec)
+
+* Reverse-Breakdown Diode Current Parameters
+*     BV: Reverse Breakdown Voltage...........(Unit: V)
+*    IBV: Current at Breakdown Voltage........(Unit: A)
