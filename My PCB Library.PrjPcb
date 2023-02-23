@@ -1067,7 +1067,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document61]
-DocumentPath=SPICE Libraries\Capacitors\SAMSUNG_CL_Series.mdl
+DocumentPath=SPICE Libraries\Capacitors\SAMSUNG_CL.mdl
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1152,7 +1152,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document66]
-DocumentPath=SPICE Libraries\Capacitors\MURATA_GRM_Series.mdl
+DocumentPath=SPICE Libraries\Capacitors\MURATA_GRM.mdl
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
