@@ -1,0 +1,29 @@
+*
+* This spice model was created using the Altium Spice Model Wizard
+* Created: 09:33 on 23 February, 2023
+*
+* Component Name: SMBJ12A13F
+*
+.MODEL SMBJ12A13F D
++(
++    CJO = 1.1830E-0007
++     VJ = 0.3400
++      M = 1.3222
++     BV = 13.3
++    IBV = 1E-3
++     TT = 2.1600E-5
++)
+
+* Spice model SMBJ12A13F has been assigned the following parameters:
+
+* Reverse-Bias Junction Capacitance Parameters
+*    CJO: Zero-Bias Junction Capacitance......(Unit: F)
+*     VJ: Junction Potential..................(Unit: V)
+*      M: Grading Coefficient
+
+* Reverse-Recovery Time Of The Diode Parameters
+*     TT: Transit-Time........................(Unit: Sec)
+
+* Reverse-Breakdown Diode Current Parameters
+*     BV: Reverse Breakdown Voltage...........(Unit: V)
+*    IBV: Current at Breakdown Voltage........(Unit: A)
