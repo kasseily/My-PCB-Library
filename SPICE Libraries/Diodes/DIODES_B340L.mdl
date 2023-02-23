@@ -1,0 +1,33 @@
+*
+* This spice model was created using the Altium Spice Model Wizard
+* Created: 21:17 on 22 February, 2023
+*
+* Component Name: B340L
+*
+.MODEL B340L D
++(
++     IS = 1.9225E-0006
++      N = 0.8363
++     RS = 0.0256
++    CJO = 4.1123E-0010
++     VJ = 0.9300
++      M = 0.4468
++     BV = 40
++    IBV = 2E-3
++)
+
+* Spice model B340L has been assigned the following parameters:
+
+* Forward-Bias Diode Current Parameters
+*     IS: Saturation Current..................(Unit: A)
+*      N: Emission Coefficient
+*     RS: Ohmic Resistance....................(Unit: Ohm)
+
+* Reverse-Bias Junction Capacitance Parameters
+*    CJO: Zero-Bias Junction Capacitance......(Unit: F)
+*     VJ: Junction Potential..................(Unit: V)
+*      M: Grading Coefficient
+
+* Reverse-Breakdown Diode Current Parameters
+*     BV: Reverse Breakdown Voltage...........(Unit: V)
+*    IBV: Current at Breakdown Voltage........(Unit: A)

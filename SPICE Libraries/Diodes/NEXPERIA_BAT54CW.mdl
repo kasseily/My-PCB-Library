@@ -1,0 +1,63 @@
+*
+* This spice model was created using the Altium Spice Model Wizard
+* Created: 21:28 on 22 February, 2023
+*
+* Edited by Karl Asseily to create the multi-component subcircuit
+*
+*
+* Component Name: BAT54CW
+*
+* Pin 1 : Anode 1
+* Pin 2 : Anode 2
+* Pin 3 : Common Cathode
+*
+.SUBCKT BAT54CW 1 2 3
+D1 1 3 BAT54CW_1
+D2 2 3 BAT54CW_2
+
+.MODEL BAT54CW_1 D
++(
++     IS = 1.0000E-0007
++      N = 1.3427
++     RS = 2.8915
++    CJO = 8.0006E-0012
++     VJ = 0.1000
++      M = 0.3164
++     BV = 30
++    IBV = 2E-6
++     TT = 7.2000E-9
++)
+
+ .MODEL BAT54CW_2 D
++(
++     IS = 1.0000E-0007
++      N = 1.3427
++     RS = 2.8915
++    CJO = 8.0006E-0012
++     VJ = 0.1000
++      M = 0.3164
++     BV = 30
++    IBV = 2E-6
++     TT = 7.2000E-9
++)
+
+.ENDS BAT54CW
+
+* Spice model BAT54CW has been assigned the following parameters:
+
+* Forward-Bias Diode Current Parameters
+*     IS: Saturation Current..................(Unit: A)
+*      N: Emission Coefficient
+*     RS: Ohmic Resistance....................(Unit: Ohm)
+
+* Reverse-Bias Junction Capacitance Parameters
+*    CJO: Zero-Bias Junction Capacitance......(Unit: F)
+*     VJ: Junction Potential..................(Unit: V)
+*      M: Grading Coefficient
+
+* Reverse-Recovery Time Of The Diode Parameters
+*     TT: Transit-Time........................(Unit: Sec)
+
+* Reverse-Breakdown Diode Current Parameters
+*     BV: Reverse Breakdown Voltage...........(Unit: V)
+*    IBV: Current at Breakdown Voltage........(Unit: A)
