@@ -1,20 +1,20 @@
 *
 * This spice model was created using the Altium Spice Model Wizard
-* Created: 14:23 on 21 February, 2023
+* Created: 06:55 on 23 February, 2023
 *
-* Component Name: LITEON_LTSTC191KSKT
+* Component Name: XLM2MR12W
 *
-.MODEL LITEON_LTSTC191KSKT D
+.MODEL XLM2MR12W D
 +(
-+     IS = 1.0772E-0064
-+      N = 0.5035
-+     RS = 5.4624
-+     CJO = 40E-0012
++     IS = 7.8594E-0015
++      N = 2.5695
++     RS = 8.5960
++     CJO = 45E-0012
 +     BV = 5
-+     IBV = 10E-6
++    IBV = 10e-6
 +)
 
-* Spice model LITEON_LTSTC191KSKT has been assigned the following parameters:
+* Spice model XLM2MR12W has been assigned the following parameters:
 
 * Forward-Bias Diode Current Parameters
 *     IS: Saturation Current..................(Unit: A)
@@ -26,4 +26,4 @@
 
 * Reverse-Breakdown Diode Current Parameters
 *     BV: Reverse Breakdown Voltage...........(Unit: V)
-*    IBV: Reverse Breakdown  Current..........(Unit: A)
+*    IBV: Current at Breakdown Voltage........(Unit: A)

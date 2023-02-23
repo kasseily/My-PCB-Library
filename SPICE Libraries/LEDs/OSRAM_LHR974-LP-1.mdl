@@ -9,6 +9,8 @@
 +     IS = 1.0000E-0018
 +      N = 1.6784
 +     RS = 0.3983
++     BV = 12
++     IBV = 100E-6
 +)
 
 * Spice model OSRAM_LHR974LP1 has been assigned the following parameters:
@@ -17,3 +19,7 @@
 *     IS: Saturation Current..................(Unit: A)
 *      N: Emission Coefficient
 *     RS: Ohmic Resistance....................(Unit: Ohm)
+
+* Reverse-Breakdown Diode Current Parameters
+*     BV: Reverse Breakdown Voltage...........(Unit: V)
+*    IBV: Reverse Breakdown  Current..........(Unit: A)

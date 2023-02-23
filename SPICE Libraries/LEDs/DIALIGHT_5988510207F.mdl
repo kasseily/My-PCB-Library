@@ -21,6 +21,8 @@ D2 3 4 DIALIGHT_5988510207F_RED
 +     IS = 1.0401E-0011
 +      N = 3.9455
 +     RS = 1.5549
++     BV = 5
++     IBV = 10E-6
 +)
 
 .MODEL DIALIGHT_5988510207F_GRN D
@@ -28,6 +30,8 @@ D2 3 4 DIALIGHT_5988510207F_RED
 +     IS = 1.5062E-0016
 +      N = 3.2742
 +     RS = 18.5791
++     BV = 5
++     IBV = 10E-6
 +)
 
 .ENDS  DIALIGHT_5988510207F
@@ -39,3 +43,6 @@ D2 3 4 DIALIGHT_5988510207F_RED
 *      N: Emission Coefficient
 *     RS: Ohmic Resistance....................(Unit: Ohm)
 
+* Reverse-Breakdown Diode Current Parameters
+*     BV: Reverse Breakdown Voltage...........(Unit: V)
+*    IBV: Reverse Breakdown  Current..........(Unit: A)

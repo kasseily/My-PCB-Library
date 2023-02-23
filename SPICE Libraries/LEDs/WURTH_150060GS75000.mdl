@@ -9,6 +9,8 @@
 +     IS = 5.4264E-0010
 +      N = 6.9985
 +     RS = 4.4834
++     BV = 5
++    IBV = 10e-6
 +)
 
 * Spice model WURTH_150060GS75000 has been assigned the following parameters:
@@ -17,3 +19,7 @@
 *     IS: Saturation Current..................(Unit: A)
 *      N: Emission Coefficient
 *     RS: Ohmic Resistance....................(Unit: Ohm)
+
+* Reverse-Breakdown Diode Current Parameters
+*     BV: Reverse Breakdown Voltage...........(Unit: V)
+*    IBV: Current at Breakdown Voltage........(Unit: A)
