@@ -1,0 +1,37 @@
+*
+* This spice model was created using the Altium Spice Model Wizard
+* Created: 12:56 on 23 February, 2023
+*
+* Component Name: TPD4E05U06DQAR
+*
+.MODEL TPD4E05U06DQAR D
++(
++     IS = 2.0394E-0015
++      N = 23.0869
++     RS = -11.9068
++    CJO = 2.5520E-0012
++     VJ = 0.1000
++      M = 0.5000
++     BV = 6.5
++    IBV = 10E-9
++     TT = 8.6400E-9
++)
+
+* Spice model TPD4E05U06DQAR has been assigned the following parameters:
+
+* Forward-Bias Diode Current Parameters
+*     IS: Saturation Current..................(Unit: A)
+*      N: Emission Coefficient
+*     RS: Ohmic Resistance....................(Unit: Ohm)
+
+* Reverse-Bias Junction Capacitance Parameters
+*    CJO: Zero-Bias Junction Capacitance......(Unit: F)
+*     VJ: Junction Potential..................(Unit: V)
+*      M: Grading Coefficient
+
+* Reverse-Recovery Time Of The Diode Parameters
+*     TT: Transit-Time........................(Unit: Sec)
+
+* Reverse-Breakdown Diode Current Parameters
+*     BV: Reverse Breakdown Voltage...........(Unit: V)
+*    IBV: Current at Breakdown Voltage........(Unit: A)

@@ -1,6 +1,0 @@
-* POTENTIOMETER position must be between 0 and 1
-.SUBCKT POT in out pos params: value=1k  position=0.5
-r1 in pos {value*position}
-r2 pos out {value*(1.0-position)}
-.ENDS
-

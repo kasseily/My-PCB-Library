@@ -1,0 +1,37 @@
+*
+* This spice model was created using the Altium Spice Model Wizard
+* Created: 12:43 on 23 February, 2023
+*
+* Component Name: TPD4E02B04QDQARQ1
+*
+.MODEL TPD4E02B04QDQARQ1 D
++(
++     IS = 3.4200E-0011
++      N = 15.0331
++     RS = 0.2669
++    CJO = 3.2406E-0013
++     VJ = 12.8200
++      M = 0.7240
++     BV = 5.5
++    IBV = 10E-9
++     TT = 1.2960E-5
++)
+
+* Spice model TPD4E02B04QDQARQ1 has been assigned the following parameters:
+
+* Forward-Bias Diode Current Parameters
+*     IS: Saturation Current..................(Unit: A)
+*      N: Emission Coefficient
+*     RS: Ohmic Resistance....................(Unit: Ohm)
+
+* Reverse-Bias Junction Capacitance Parameters
+*    CJO: Zero-Bias Junction Capacitance......(Unit: F)
+*     VJ: Junction Potential..................(Unit: V)
+*      M: Grading Coefficient
+
+* Reverse-Recovery Time Of The Diode Parameters
+*     TT: Transit-Time........................(Unit: Sec)
+
+* Reverse-Breakdown Diode Current Parameters
+*     BV: Reverse Breakdown Voltage...........(Unit: V)
+*    IBV: Current at Breakdown Voltage........(Unit: A)
