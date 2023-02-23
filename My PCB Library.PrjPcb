@@ -829,40 +829,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document47]
-DocumentPath=SPICE Libraries\LEDs\LITEON_LTST-C191KGKT.mdl
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document48]
-DocumentPath=SPICE Libraries\LEDs\LITEON_LTST-C191KSKT.mdl
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document49]
 DocumentPath=SPICE Libraries\LEDs\OSRAM_LGR971-KN-1.mdl
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -879,7 +845,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document50]
+[Document48]
 DocumentPath=SPICE Libraries\LEDs\OSRAM_LHR974-LP-1.mdl
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -896,7 +862,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document51]
+[Document49]
 DocumentPath=SPICE Libraries\LEDs\SUNLED_XLDGK12W.mdl
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -913,7 +879,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document52]
+[Document50]
 DocumentPath=SPICE Libraries\LEDs\SUNLED_XLM2MR12W.mdl
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -930,7 +896,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document53]
+[Document51]
 DocumentPath=SPICE Libraries\LEDs\WURTH_150060GS75000.mdl
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -947,7 +913,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document54]
+[Document52]
 DocumentPath=SPICE Libraries\LEDs\WURTH_150060RS75000.mdl
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -964,7 +930,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document55]
+[Document53]
 DocumentPath=SPICE Libraries\Chokes\MURATA_DLP11SN331HL2.mdl
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -981,7 +947,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document56]
+[Document54]
 DocumentPath=SPICE Libraries\Chokes\ON_ESD8351HT1G.mdl
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -998,7 +964,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document57]
+[Document55]
 DocumentPath=SPICE Libraries\Capacitors\KEMET_C0G_STD.mdl
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1015,7 +981,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document58]
+[Document56]
 DocumentPath=SPICE Libraries\Capacitors\KEMET_X7R_FT-CAP.mdl
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1032,7 +998,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document59]
+[Document57]
 DocumentPath=SPICE Libraries\Capacitors\KEMET_X7R_STD.mdl
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1049,7 +1015,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document60]
+[Document58]
 DocumentPath=SPICE Libraries\Capacitors\KEMET_EDK226M025A9GAA.mdl
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1066,7 +1032,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document61]
+[Document59]
 DocumentPath=SPICE Libraries\Capacitors\KEMET_T491C106K025AT7280.mdl
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1083,7 +1049,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document62]
+[Document60]
 DocumentPath=SPICE Libraries\Capacitors\PANASONIC_EEETP1E101AP.mdl
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1100,7 +1066,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document63]
+[Document61]
 DocumentPath=SPICE Libraries\Capacitors\SAMSUNG_CL_Series.mdl
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1117,7 +1083,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document64]
+[Document62]
 DocumentPath=SPICE Libraries\Capacitors\TAIYO_HVC_S.mdl
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1134,7 +1100,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document65]
+[Document63]
 DocumentPath=SPICE Libraries\Capacitors\YAGEO_CC0603.mdl
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1151,7 +1117,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document66]
+[Document64]
 DocumentPath=SPICE Libraries\Capacitors\YAGEO_CC0805.mdl
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1168,7 +1134,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document67]
+[Document65]
 DocumentPath=SPICE Libraries\Capacitors\YAGEO_CC1206.mdl
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1185,7 +1151,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document68]
+[Document66]
 DocumentPath=SPICE Libraries\Capacitors\MURATA_GRM_Series.mdl
 AnnotationEnabled=1
 AnnotateStartValue=1
