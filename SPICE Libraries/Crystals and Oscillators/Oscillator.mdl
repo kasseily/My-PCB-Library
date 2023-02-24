@@ -1,0 +1,6 @@
+ * Resonator
+.SUBCKT Resonator  plus minus PARAMS: Lin=1m F0=1meg Q0=20
+C1 Plus Minus {1/(Lin*4*PI*PI*F0*F0)}
+R1 Plus n1  {2*PI*F0*Lin/Q0}
+L1 n1 Minus {Lin}
+.ENDS

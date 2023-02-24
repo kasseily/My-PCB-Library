@@ -1,0 +1,8 @@
+*Crystal
+.SUBCKT Crystal plus minus PARAMS: F0=1MEG R=500 Q=50K
+.PARAM W={(2*PI*F0)}
+CPAR plus minus 7P
+CSER minus n1 {1/ (R*Q*W)}
+L1 n1 n2 {R*Q/ W}
+R1 n2 plus {R}
+.ENDS
