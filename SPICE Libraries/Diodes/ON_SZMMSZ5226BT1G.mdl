@@ -1,0 +1,33 @@
+*
+* This spice model was created using the Altium Spice Model Wizard
+* Created: 17:30 on 24 February, 2023
+*
+* Component Name: SZMMSZ5226BT1G
+*
+.MODEL SZMMSZ5226BT1G D
++(
++     IS = 1E-10
++      N = 1.5
++     RS = 0.1
++    CJO = 210E-9
++     BV = 3.14
++    IBV = 20E-3
++     TT = 2.8800E-9
++)
+
+* Spice model SZMMSZ5226BT1G has been assigned the following parameters:
+
+* Forward-Bias Diode Current Parameters
+*     IS: Saturation Current..................(Unit: A)
+*      N: Emission Coefficient
+*     RS: Ohmic Resistance....................(Unit: Ohm)
+
+* Reverse-Bias Junction Capacitance Parameters
+*    CJO: Zero-Bias Junction Capacitance......(Unit: F)
+
+* Reverse-Recovery Time Of The Diode Parameters
+*     TT: Transit-Time........................(Unit: Sec)
+
+* Reverse-Breakdown Diode Current Parameters
+*     BV: Reverse Breakdown Voltage...........(Unit: V)
+*    IBV: Current at Breakdown Voltage........(Unit: A)
