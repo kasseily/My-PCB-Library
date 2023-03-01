@@ -1,0 +1,25 @@
+* ON Semiconductor 1N4003G diode SPICE model
+* Model created by ChatGPT
+* Last revised on March 01, 2023
+
+.MODEL 1N4003G D
++(
++      IS=20.0n
++      RS=0.177
++      BV=200
++      IBV=10.0u
++      CJO=40.0p
++      VJ=0.7
++      M=0.33
++      TT=4.0n
++)
+
+* IS:     The saturation current of the diode
+* RS:     The series resistance of the diode
+* BV:     The breakdown voltage of the diode
+* IBV:    The reverse leakage current at breakdown
+* CJO:    The zero-bias junction capacitance of the diode
+* VJ:     The built-in potential of the diode
+* M:      The grading coefficient of the diode
+* TT:     The transit time of the diode
+

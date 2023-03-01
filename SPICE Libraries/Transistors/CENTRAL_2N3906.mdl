@@ -1,0 +1,54 @@
+* Central Semiconductor 2N3906 PNP BJT SPICE model
+* Model created by ChatGPT
+* Last revised on March 01, 2023
+
+.SUBCKT 2N3906 1 2 3
+* Collector, Base, Emitter
+Q1 2 1 3 QMOD
+.MODEL QMOD PNP
++(
++      IS=6.734F
++      BF=199.8
++      NF=1.07
++      VAF=69.69
++      IKF=59.32M
++      XTB=1.5
++      BR=6.734
++      NC=2.4
++      ISB=6.734E-15
++      RB=8.056
++      RC=1.21
++      RE=0.1744
++      TR=8.752N
++      CJE=3.082P
++      VJE=0.8
++      MJE=0.3303
++      CJC=1.09P
++      VJC=0.75
++      MJC=0.33
++      TF=59.63P
++      XTF=1
++)
+.ENDS
+
+* IS: The saturation current of the transistor
+* BF: The forward beta of the transistor
+* NF: The forward mode ideality factor
+* VAF: The early voltage of the transistor
+* IKF: The high-current gain factor
+* XTB: The excess phase of the transistor
+* BR: The recombination current coefficient
+* NC: The emission coefficient
+* ISB: The saturation current for the base-emitter junction
+* RB: The base resistance of the transistor
+* RC: The collector resistance of the transistor
+* RE: The emitter resistance of the transistor
+* TR: The high-level time constant of the transistor
+* CJE: The base-emitter zero-bias depletion capacitance
+* VJE: The base-emitter built-in potential
+* MJE: The base-emitter grading coefficient
+* CJC: The base-collector zero-bias depletion capacitance
+* VJC: The base-collector built-in potential
+* MJC: The base-collector grading coefficient
+* TF: The base transit time of the transistor
+* XTF: The excess transit time of the transistor

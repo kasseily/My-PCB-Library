@@ -1,0 +1,29 @@
+* Vishay 1N4148TR diode SPICE model
+* Model created by ChatGPT
+* Last revised on March 01, 2023
+
+.MODEL 1N4148TR D
++(
++      IS=2.52E-09
++      N=1.752
++      RS=0.7332
++      IKF=0.1232
++      BV=100
++      IBV=0.0001
++      CJO=3.971E-13
++      VJ=0.6843
++      M=0.3333
++      TT=3.207E-09
++)
+
+* IS:     The saturation current of the diode
+* N:      The ideality factor of the diode
+* RS:     The series resistance of the diode
+* IKF:    The high current gain factor of the diode
+* BV:     The breakdown voltage of the diode
+* IBV:    The reverse leakage current at breakdown
+* CJO:    The zero-bias junction capacitance of the diode
+* VJ:     The built-in potential of the diode
+* M:      The grading coefficient of the diode
+* TT:     The transit time of the diode
+
