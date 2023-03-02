@@ -285,23 +285,6 @@ GenerateClassCluster=0
 DocumentUniqueId=VDVIBIGO
 
 [Document15]
-DocumentPath=Schematic Symbols.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=HTNLQTRM
-
-[Document16]
 DocumentPath=Resistors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -317,6 +300,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GFXNAKGP
+
+[Document16]
+DocumentPath=Schematic Symbols.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=HTNLQTRM
 
 [Document17]
 DocumentPath=Connectors.PcbLib
@@ -506,7 +506,7 @@ GenerateClassCluster=0
 DocumentUniqueId=NWMVFCKA
 
 [Document28]
-DocumentPath=Potentiometers THD.PcbLib
+DocumentPath=Potentiometers.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -540,7 +540,7 @@ GenerateClassCluster=0
 DocumentUniqueId=XXXCHNFL
 
 [Document30]
-DocumentPath=Resistors SMD.PcbLib
+DocumentPath=Resistors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
